@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-    cout << "Tong 3 + 5 = " << cong(3 , 5);
+    cout << "Sieu may tinh" << endl;
     return 0;
 }
