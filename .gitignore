@@ -1,0 +1,7 @@
+# File thuc thi va bien dich C++
+*.exe
+*.o
+*.obj
+
+# Cau hinh ca nhan cua VS Code
+.vscode/
